@@ -1,0 +1,57 @@
+{
+  "first_name": "Alexandre",
+  "last_name": "D'Ambra",
+  "job": "Developpeur",
+  "side_job": "Modeleur 3D",
+  "age": 32,
+  "studies": [
+    {
+      "type": "home",
+      "date": "212 555-1234",
+      "timeLength": "13 mois"
+    },
+    {
+      "type": "home",
+      "date": "212 555-1234",
+      "timeLength": "13 mois"
+    }
+  ],
+  "Skills": [
+    {
+      "cat": [
+        {
+          "name": "developpement",
+          "skills": [
+            {
+              "name": "C#",
+              "Rating": "8/10",
+              "Comment": ""
+            },
+            {
+              "name": "Web (Html/Css/js/Vue/React)",
+              "Rating": "5/10",
+              "Comment": ""
+            }
+          ]
+        },
+        {
+          "name": "Technologies 3D",
+          "skills": [
+            {
+              "name": "Modélisation (Blender)",
+              "Rating": "8/10",
+              "Comment": ""
+            },
+            {
+              "name": "Texturing",
+              "Rating": "7/10",
+              "Comment": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "children": ["Catherine", "Thomas", "Trevor"],
+  "spouse": null
+}
