@@ -1,19 +1,20 @@
 {
   "first_name": "Alexandre",
   "last_name": "D'Ambra",
-  "job": "Developpeur",
-  "side_job": "Modeleur 3D",
-  "age": 32,
+  "job":["Developpeur C# et web", "Modeleur 3D", "Concepteur VR"],
+  "age": 33,
   "studies": [
     {
-      "type": "home",
-      "date": "212 555-1234",
-      "timeLength": "13 mois"
+      "what": "home3",
+      "when": "212 555-1234",
+      "timeLength": "13 mois",
+      "where": "coin"
     },
     {
-      "type": "home",
-      "date": "212 555-1234",
-      "timeLength": "13 mois"
+      "what": "home",
+      "when": "212 555-1234",
+      "timeLength": "13 mois",
+      "where": "coin"
     }
   ],
   "Skills": [
@@ -44,7 +45,7 @@
             },
             {
               "name": "Texturing",
-              "Rating": "7/10",
+              "Rating": "5/10",
               "Comment": ""
             }
           ]
